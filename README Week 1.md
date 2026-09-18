@@ -3,7 +3,7 @@ Week 1: Energy Python Foundations (no libraries)
 The aim of this project is to write small Python programs that:
 1.	Convert MW to kW.
 2.	Calculate energy from power and time.
-3.	Calculate percentage change.
+3.	Calculate percentage change in energy demand over time.
 4.	Convert a list of half-hourly MW values into MWh.
 5.	Calculate a weighted average of carbon emissions associated with electricity consumption in a given time period.
 
